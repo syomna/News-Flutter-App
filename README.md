@@ -1,16 +1,16 @@
-# newsapp
+# News App With Flutter ❤️
 
-A new Flutter project.
+![Remini20210915180629140](https://user-images.githubusercontent.com/91206852/134372656-b6eb9c9d-f76a-4deb-8c3c-740c997b5b34.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The App Contains :
 
-A few resources to get you started if this is your first Flutter project:
+- Splash Screen
+- Light Mode & Dark Mode
+- API integration - NewsApi -
+- Search
+- Web View
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Gif of the app :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![VN20210603_0134-1622676888663](https://user-images.githubusercontent.com/91206852/134372713-a14bfe06-5586-4735-a809-73846c7e6b7e.gif)
